@@ -1,0 +1,130 @@
+body{
+    background-color: #eaf6f6;
+}
+#tittle{
+    background-color: #EDC7B7; 
+    text-align: center;
+   
+}
+
+h1,h2,h3{
+    font-family: Montserrat-bold;
+
+}
+
+h1{
+    
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h2{
+    
+    font-weight: bold;
+    color: grey;
+    
+    line-height: 1.5;
+}
+h3{
+    
+    font-weight: bold;
+    color: black;
+    
+    line-height: 1.5;
+}
+/* corona-slides */
+
+#corona-slides{
+    
+    background-color: #eeecf1;
+    /* background-color: #2c003e; */
+    height: 500px;
+    padding-bottom: 550px;
+   
+}
+
+.corona-img{
+   
+    
+        /* padding: 2% 5%; */
+        border: 5px solid black;
+        max-height: 500px;
+        width: 100%;
+        padding: 0 5%;
+        
+       
+    
+    
+}
+
+/* select-services */
+
+#select-area{
+    text-align: center;
+    padding: 7% 15% 5%;
+    
+    
+}
+
+
+
+.select-service{
+    padding-bottom: 3%;
+}
+
+hr{
+   border: dotted grey;
+   border-bottom: none;
+   width: 4%;
+   margin: 100px auto 100px auto;
+}
+
+                         /* activities-section */
+
+#activities{
+    text-align: center;
+    /* padding-bottom: 7%; */
+    
+
+}
+.container{
+    background-color: cornsilk;
+    color: grey;
+    padding: 1% 2%;
+    
+}
+
+.activities-img{
+    padding: 5% 2% 0;
+    /* padding-top: 5%; */
+
+}
+
+.act-corona-img{
+    
+    border: 2px solid black;
+    width: 70%;
+    
+}
+
+.india{
+    width: 45%;
+}
+
+
+/* footer-design */
+
+#footer-section{
+    /* background-color: #66bfbf; */
+    background-color: #2c003e;
+    text-align: center;
+    color: grey;
+    padding: 3% 0 3%;
+}
+
+.footer-link{
+    margin: 10px;
+}
+
+.platforms{
+    margin-bottom: 0px;
+}

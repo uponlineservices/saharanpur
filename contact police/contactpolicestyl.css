@@ -1,0 +1,50 @@
+/* send message section */
+.snd-message{
+    text-align: center;
+    padding-top: 7%;
+}
+
+.emergency-services-main{
+    
+    padding: 3% 3%;
+
+}
+
+.emergency-services{
+    padding: 2% 2%;
+}
+
+.emergency-img{
+
+    
+    width: 90%;
+    border: solid black;
+
+}
+
+/* police-officers at saharanpur */
+ .police-officers{
+      text-align: center;
+      padding: 2% 2%;
+      background-color: cornsilk;
+      margin-bottom: 50px;
+ }
+
+
+/* footer-design */
+
+#footer-section{
+    /* background-color: #66bfbf; */
+    background-color: #2c003e;
+    text-align: center;
+    color: grey;
+    padding: 3% 0 3%;
+}
+
+.footer-link{
+    margin: 10px;
+}
+
+.platforms{
+    margin-bottom: 0px;
+}

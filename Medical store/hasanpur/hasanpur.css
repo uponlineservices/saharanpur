@@ -1,0 +1,46 @@
+body{
+    background-color: #ecfbfc;
+}
+.heading{
+
+   font-family: 'Dancing Script-bold', cursive;
+   font-weight: bold;
+}
+#tittle-paramount{
+    text-align: center;
+    
+}
+
+/* .medicalshop-list-hasanpur{
+    
+} */
+h1{
+    margin-top: 30px;
+    font-family: Montserrat-black;
+    font-weight: bold;
+}
+#medicalshops-hasanpur{
+    text-align: center;
+}
+.med{
+    padding: 2% 3%;
+}
+
+
+/* footer-design */
+
+#footer-section{
+    /* background-color: #66bfbf; */
+    background-color: #2c003e;
+    text-align: center;
+    color: grey;
+    padding: 3% 0 3%;
+}
+
+.footer-link{
+    margin: 10px;
+}
+
+.platforms{
+    margin-bottom: 0px;
+}
